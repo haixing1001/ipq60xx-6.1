@@ -8,5 +8,5 @@ src-git extras https://github.com/openwrt-ipq60xx/extras.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
 src-git sqm_scripts_nss https://github.com/rickkdotnet/sqm-scripts-nss.git
-src-git helloworld https://github.com/sbwml/openwrt_helloworld.git
+src-git helloworld https://github.com/fw876/helloworld.git
 src-git mypackages https://github.com/haixing1001/my-packages.git
